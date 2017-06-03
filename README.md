@@ -110,3 +110,10 @@ Ionic 2 / Ionic and Cordova Camera plugin tutorials
 [How to use Camera in Ionic 2 apps with Ionic Native ](https://www.techiediaries.com/ionic-native-camera)
 
 
+Ionic 2 / Ionic 3 with WordPress
+-------------------------------------------
+------------------------------------------
+
+[Consuming WordPress Rest API with Ionic 2](https://www.techiediaries.com/wordpress-ionic-2/)
+
+[Ionic 2 WooCommerce store mobile app ](https://www.techiediaries.com/woocommerce-ionic-2/)
