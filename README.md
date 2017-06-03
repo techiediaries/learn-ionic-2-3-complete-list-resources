@@ -64,7 +64,7 @@ Ionic 2 / Ionic 3 InAppBrowser examples and tutorials
 
 [Cordova Themeablebrowser with Ionic 2 ](https://www.techiediaries.com/ionic-2-webview-themeablebrowser)
 
-[How to use Cordova InAppBrowser Plugin with Ionic 2 (Or 3 ) and Ionic Native 3.x+ to Open External URLs]((https://www.techiediaries.com/inappbrowser-ionic-v3)
+[How to use Cordova InAppBrowser Plugin with Ionic 2 (Or 3 ) and Ionic Native 3.x+ to Open External URLs](https://www.techiediaries.com/inappbrowser-ionic-v3)
 
 Ionic 2/ Ionic 3 QR|UPC|Barcode Scanning examples and tutorials 
 -----------------------------------
