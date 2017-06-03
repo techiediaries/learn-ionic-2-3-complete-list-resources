@@ -62,6 +62,7 @@ Ionic 2 / Ionic 3 InAppBrowser examples and tutorials
 
 [Ionic 3 : Using Cordova SQLite and Barcode Scanner plugins to build a product inventory manager -PART 1 ](https://www.techiediaries.com/ionic-cordova-sqlite-barcode-scanner-product-inventory-manager)
 
+[Cordova Themeablebrowser with Ionic 2 ](https://www.techiediaries.com/ionic-2-webview-themeablebrowser)
 
 Ionic 2/ Ionic 3 QR|UPC|Barcode Scanning examples and tutorials 
 -----------------------------------
