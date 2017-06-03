@@ -1,4 +1,4 @@
-# learn-ionic-2-3-complete-list-resources
+# Learn Ionic 2 | Ionic 3 Complete List Of Resources
 
 This is a complete list of 20+ resources to learn Ionic 2 / Ionic 3
 
